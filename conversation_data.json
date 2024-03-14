@@ -19,74 +19,7 @@
         {
             "question": "hi",
             "answer": "hi"
-        },
-        {
-            "question": "I'm bored",
-            "answer": "I can help with that! What are some of your interests or things you enjoy doing? We can find something interesting to talk about or explore together."
-        },
-              {
-            "question": "What's the weather like today?",
-            "answer": "I can check that for you. What's your location?"
-        },
-        {
-            "question": "Can you tell me a joke?",
-            "answer": "Sure! Why don't scientists trust atoms? Because they make up everything!"
-        },
-        {
-            "question": "Do you have any hobbies?",
-            "answer": "As an AI, I don't have hobbies in the traditional sense, but I enjoy learning new things and helping people."
-        },
-        {
-            "question": "What's your favorite movie?",
-            "answer": "I don't have personal preferences, but I can recommend movies based on your interests."
-        },
-        {
-            "question": "What languages can you speak?",
-            "answer": "I'm proficient in many languages including English, but I can understand and respond in multiple languages."
-        },
-        {
-            "question": "How do I improve my programming skills?",
-            "answer": "Practice regularly, work on projects, and keep learning new techniques and technologies. Also, don't hesitate to seek help or collaborate with others."
-        },
-        {
-            "question": "What's the meaning of life?",
-            "answer": "That's a deep question! The meaning of life can vary for each person, but many people find purpose in relationships, personal growth, and contributing to the well-being of others."
-        },
-        {
-            "question": "Do you believe in ghosts?",
-            "answer": "As an AI, I don't have beliefs in the same way humans do. However, beliefs about ghosts vary greatly among individuals and cultures."
-        },
-        {
-            "question": "What's the best way to relax after a long day?",
-            "answer": "There are many ways to relax! Some people enjoy reading, others prefer taking a walk, meditating, or listening to music. Finding what works best for you is key."
-        },
-        {
-            "question": "How can I stay motivated?",
-            "answer": "Setting clear goals, breaking tasks into smaller steps, rewarding yourself for progress, and surrounding yourself with supportive people can help maintain motivation."
-        },
-                {
-            "question": "What's your favorite book?",
-            "answer": "As an AI, I don't have personal preferences, but I can recommend books based on your interests."
-        },
-        {
-            "question": "Can you help me with my homework?",
-            "answer": "Of course! Please provide the details of the homework assignment, and I'll do my best to assist you."
-        },
-        {
-            "question": "What's the capital of France?",
-            "answer": "The capital of France is Paris."
-        },
-        {
-            "question": "Do you know any interesting facts?",
-            "answer": "Sure! Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
-        },
-        {
-            "question": "How can I improve my memory?",
-            "answer": "Practicing memory techniques like visualization, association, and repetition can help improve memory. Also, maintaining a healthy lifestyle with regular exercise and adequate sleep is important for cognitive function."
-        },
-        {
-            "question": "What's the difference between a crocodile and an alligator?",
-            "answer": "One notable difference is in their jaw shape. Crocodiles have V-shaped snouts, while alligators have U-shaped snouts."
         }
+        
     ]
 }
